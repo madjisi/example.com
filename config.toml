@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://github.com/madjisi/example.com/"
+baseurl = "https://madjisi.github.io/example.com/"
 # HTML Language Code Reference, such as en, zh-cn
 languageCode = "en"
 title = "Blog Title"
